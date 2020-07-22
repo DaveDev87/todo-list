@@ -8,7 +8,7 @@ function App() {
     <div className="container">
       <h1 className="title">Todo List</h1>
       <NewTaskForm />
-      <TaskList />ya
+      <TaskList />
     </div>
   )
 }

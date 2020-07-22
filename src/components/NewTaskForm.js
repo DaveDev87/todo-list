@@ -16,7 +16,7 @@ export default function NewTaskForm() {
       <input
         type="text"
         value={task}
-        placeholder="Get some eggs..."
+        placeholder="Add some shit"
         onChange={(e) => setTask(e.target.value)}
         required
       />
